@@ -1,0 +1,16 @@
+{
+    "compilerOptions": {
+        // Répertoire de sortie pour les fichiers compilés
+        "outDir": "dist",
+        // Version cible de JavaScript
+        "target": "ES2024",
+        // Empêche la génération de fichiers si des erreurs sont présentes
+        "noEmitOnError": true,
+        // Active les vérifications strictes de TypeScript
+        "strict": true
+    },
+    // Liste des fichiers TypeScript à inclure dans la compilation
+    "files": [
+        "voiture.ts"
+    ]
+}

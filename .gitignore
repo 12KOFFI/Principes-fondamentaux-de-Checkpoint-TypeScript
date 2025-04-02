@@ -1,0 +1,15 @@
+node_modules
+# Ignorer les fichiers de configuration spécifiques à l'éditeur
+.vscode/
+.idea/
+
+# Ignorer les fichiers de logs
+*.log
+
+# Ignorer les fichiers de sauvegarde temporaires
+*.tmp
+*.bak
+
+# Ignorer les fichiers système
+.DS_Store
+Thumbs.db
